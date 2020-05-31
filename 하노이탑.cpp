@@ -103,7 +103,7 @@ void hanoi(int n, int from, int by, int to)
             howtomove[v][2] = to;
             v++;
             //move(from, to);
-           
+           //
             //0,1,2       
         }
         else
